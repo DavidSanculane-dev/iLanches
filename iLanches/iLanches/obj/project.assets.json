@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\David.Sanculane\\.nuget\\packages\\": {},
+    "C:\\Users\\helpdesk\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\David.Sanculane\\Documents\\MEUS PROJECTOS\\iLanches\\iLanches\\iLanches\\iLanches.csproj",
+      "projectUniqueName": "C:\\Users\\helpdesk\\Documents\\MEUS PROJECTOS\\iLanches\\iLanches\\iLanches\\iLanches.csproj",
       "projectName": "iLanches",
-      "projectPath": "C:\\Users\\David.Sanculane\\Documents\\MEUS PROJECTOS\\iLanches\\iLanches\\iLanches\\iLanches.csproj",
-      "packagesPath": "C:\\Users\\David.Sanculane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\David.Sanculane\\Documents\\MEUS PROJECTOS\\iLanches\\iLanches\\iLanches\\obj\\",
+      "projectPath": "C:\\Users\\helpdesk\\Documents\\MEUS PROJECTOS\\iLanches\\iLanches\\iLanches\\iLanches.csproj",
+      "packagesPath": "C:\\Users\\helpdesk\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\helpdesk\\Documents\\MEUS PROJECTOS\\iLanches\\iLanches\\iLanches\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\David.Sanculane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\helpdesk\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -33,7 +33,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -57,8 +56,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -70,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
